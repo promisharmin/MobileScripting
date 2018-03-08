@@ -1,0 +1,26 @@
+1.	Question#1 from General Scripting and Exercise#3 from Mobile Automation has been completed.
+
+2.	For Mobile Automation, an open source app called Flipkart has been used.  
+Since the app is open source, it may not behave as expected due to the poor app development.
+My script is not responsible for the poor app behavior of this application.
+
+3.	Mobile Automation exercise has been completed assuming the client may already have required 
+setting to launch and execute the scripts on test Android device.  Following are the instructions-
+
+	1)	Download and Install JDK
+	2)	Download and install Android SDK
+	3)	Download and Install Maven
+	4)	Download and Install Appium
+	5)	Download and Install Android Emulator 
+	6)	Proper configuration of Environment Variable under ~bash_profile
+	
+4)	Test Mobile App apk file is also included under the same project.
+
+5)	Only 1 Github repo project is created and both General scripting and Mobile Automation exercise, including 
+the Android apk file etc. everything is included under the same project in Github.
+
+6)	Please feel free to reach out for any further details regarding instruction, execution etc.
+
+
+Thank You,
+Sharmin Promi 
