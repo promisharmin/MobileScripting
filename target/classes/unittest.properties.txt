@@ -1,0 +1,5 @@
+appLocation=/Users/azmirulbhuiyan/Downloads/
+apkFileName=com.flipkart.android_2018-02-15.apk
+platformVersion=5.1
+urlPort=http://127.0.0.1:4723/wd/hub
+elementTimeoutSec=20
